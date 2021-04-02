@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609765596 source:c:\users\yavuz\desktop\denemeler›m\proje 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
